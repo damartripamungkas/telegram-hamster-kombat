@@ -14,6 +14,10 @@
 
 <br>
 
+### 💻 Demo
+
+https://t.me/tg_ma_1_bot
+
 ### 📝 Information
 
 This project features a Telegram mini app and bot that are seamlessly integrated, drawing design inspiration from Hamster Kombat. Key aspects of this project include:
@@ -24,7 +28,7 @@ This project features a Telegram mini app and bot that are seamlessly integrated
 
 - Customization Options: Players can choose from various characters and abilities, enhancing the gameplay experience and allowing for strategic battles.
 
-If you're interested in developing a project like this or have any ideas you'd like to discuss, please feel free to reach out to me via Telegram: [here](https://t.me/damartripamungkas). I'm here to help bring your vision to life!
+If you're interested in developing a project like this or have any ideas you'd like to discuss.
 
 ### 🔨 Tech stack
 
@@ -34,4 +38,4 @@ If you're interested in developing a project like this or have any ideas you'd l
 
 ### 💬 Contact
 
-telegram [here](https://t.me/damartripamungkas)
+please feel free to reach out to me via Telegram: https://t.me/damartripamungkas. I'm here to help bring your vision to life!
